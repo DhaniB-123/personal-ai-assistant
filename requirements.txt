@@ -7,4 +7,5 @@ FastApi
 psycopg2-binary
 tavly-python
 python-dotenv
+tavily-python
 
